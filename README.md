@@ -1,4 +1,3 @@
-# NEXO-Weather-Station-
 # NEXO Weather Station 🌡️💧
 
 ESP32 + DHT11 + Display based IoT project
